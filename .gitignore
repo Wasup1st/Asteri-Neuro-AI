@@ -1,0 +1,7 @@
+*.npy
+*.keras
+*.h5
+*.pkl
+data_raw/
+processed_nifti/
+raw_data_batch2/
